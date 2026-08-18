@@ -71,7 +71,7 @@ ${seo({title:SITE.name,description:SITE.description})}
 <span class="hero-badge">⚡ AI MODERN</span>
 <h1>${SITE.name}</h1>
 <p>
-Panduan SEO, AI, blogging, teknologi digital, dan strategi website modern untuk membantu meningkatkan visibilitas online di Indonesia.
+Panduan SEO, AI, blogging, teknologi digital, dan strategi website dari AI Mr Ferdy untuk membantu membangun serta meningkatkan visibilitas online di Indonesia.
 </p>
 <div class="hero-btns">
 <a href="https://apk.aimrFerdy.workers.dev/" class="btn">Aktivasi</a>
