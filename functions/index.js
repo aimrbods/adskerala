@@ -68,9 +68,11 @@ ${seo({title:SITE.name,description:SITE.description})}
 `,
 					content:`<section class="hero">
 <div class="hero-box">
-<span class="hero-badge">⚡ SEO MODERN</span>
+<span class="hero-badge">⚡ AI MODERN</span>
 <h1>${SITE.name}</h1>
-<p>Tutorial SEO, AI, blogging, dan teknologi modern Indonesia</p>
+<p>
+Panduan SEO, AI, blogging, teknologi digital, dan strategi website modern untuk membantu meningkatkan visibilitas online di Indonesia.
+</p>
 <div class="hero-btns">
 <a href="https://apk.aimrFerdy.workers.dev/" class="btn">Aktivasi</a>
 <a href="https://app.aimrferdy.workers.dev/" class="btn btn2">Alternatif</a>
